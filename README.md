@@ -12,5 +12,9 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
 - `.gitignore`: exclusiones de archivos no necesarios.
 - `README.md`: documentación básica del proyecto.
 - locura
+<<<<<<< HEAD
 ## Nota de verificación
 Este cambio se ha realizado desde una copia clonada del repositorio.
+=======
+- no puedo massss
+>>>>>>> bc79bd4f686e42143c8cb37188366a078ee3d5b5
